@@ -14,3 +14,13 @@ ___
 ### How to reach me ###
 **G-mail**: bagjihyeong640@gmail.com   
 **Velog**: https://velog.io/@maldron
+
+
+___
+
+```c
+#include <stdio.h>
+int main(void) {
+  printf("Life is short you need me");
+}
+```
