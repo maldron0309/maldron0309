@@ -32,5 +32,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maldron0309&amp;layout=compact&amp;theme=radical" alt="Top Languages" />
 </p>
 <p align="center">
- ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maldron0309&theme=github)
+ ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maldron0309&show_icons=true&theme=radical)
 </p>
