@@ -32,5 +32,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maldron0309&amp;layout=compact&amp;theme=radical" alt="Top Languages" />
 </p>
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=maldron0309&amp;bg_color=1F222E&amp;color=F8D866&amp;line=F85D7F&amp;point=FFFFFF&amp;hide_border=true" alt="Contribution Graph" />
+  http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={maldron0309}&theme={github}
 </p>
