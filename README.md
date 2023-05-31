@@ -1,4 +1,7 @@
-<h1 align="center">Welcome to my GitHub profile!</h1>
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:ed9d0b,100:f94001&height=250&section=header&text=maldron0309&fontColor=ffffff&fontSize=90)
+
+<h1 align="center">Welcome to my Github!!</h1>
+
 <h3 align="center">🧡 Me 🧡</h3>
 <div align="center">
   <a href="https://twitter.com/bagjinh52270779" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"/></a>
