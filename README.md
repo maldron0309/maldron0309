@@ -20,10 +20,10 @@
 
 <h3 align="center">🧱 MY STATS 🧱</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maldron0309&amp;show_icons=true&amp;theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=maldron0309&amp;show_icons=true&amp;theme=github" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maldron0309&amp;layout=compact&amp;theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maldron0309&amp;layout=compact&amp;theme=github" alt="Top Languages" />
 </p>
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maldron0309&theme=github" alt="Profile Summary" />
