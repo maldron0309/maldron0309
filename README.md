@@ -21,7 +21,6 @@
 
 <h3 align="center">🛠 Tech stack 🛠</h3>
 <div align="center">
- <a target="_blank"><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
  <a target="_blank"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=C&logoColor=white"/></a>
  <a target="_blank"><img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=C&logoColor=white"/></a>
  <a target="_blank"><img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/></a>
@@ -41,6 +40,10 @@
 </p>
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=maldron)](https://solved.ac/maldron)
+   
+
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=maldron&theme=warm)
+
    
 <!-- Snake -->
 <div align="center">
