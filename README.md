@@ -39,7 +39,8 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maldron0309&theme=github" alt="Profile Summary" />
 </p>
-
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={maldron})](https://solved.ac/{maldron})
 <!-- Snake -->
 <div align="center">
   <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" />
