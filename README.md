@@ -24,6 +24,7 @@
 <div align="center">
  <a target="_blank"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=C&logoColor=white"/></a>
  <a target="_blank"><img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=C&logoColor=white"/></a>
+ <a target="_blank"><img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/></a>
 </div>
        
 <hr>
