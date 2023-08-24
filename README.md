@@ -37,14 +37,15 @@
 <!-- Stats -->
 <h3 align="center">🧱 MY STATS 🧱</h3>
 <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maldron0309&theme=github" alt="Profile Summary" />
+</p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maldron0309&amp;show_icons=true&amp;theme=github" alt="GitHub Stats" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maldron0309&amp;layout=compact&amp;theme=github" alt="Top Languages" />
 </p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maldron0309&theme=github" alt="Profile Summary" />
-</p>
+
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=maldron)](https://solved.ac/maldron)
    
