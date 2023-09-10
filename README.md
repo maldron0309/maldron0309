@@ -1,4 +1,4 @@
-<!-- Header -->
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ed9d0b,100:f94001&height=250&section=header&text=maldron0309&fontColor=ffffff&fontSize=90" alt="header" />
 </div>
