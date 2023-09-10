@@ -48,6 +48,11 @@
 
 </div>
 
+<h2 align=center>🔥 Streak Stats 🔥</h2>
+<p align=center>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maldron0309&theme=dark" />
+</p>
+
 
 <h2 align="center">💡 PS 💡</h2>
 <div align="center">
@@ -66,11 +71,11 @@
   <img src="https://github-profile-trophy.vercel.app/?username=maldron0309&theme=juicyfresh&no-bg=true" />
 </p>
 
-<h2 align=center>🔥 Streak Stats 🔥</h2>
-<p align=center>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maldron0309&theme=dark" />
-</p>
 
 <hr />
 
+<!-- Snake -->
+<div align="center">
+  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" />
+</div>
 
