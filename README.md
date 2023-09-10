@@ -13,7 +13,7 @@
 
 </div>
 
-<h2 align="center">Connect with me</h2>
+<h2 align="center">🧡 Connect with me 🧡</h2>
 <p align=center>
   <a href="https://twitter.com/MAREDA640" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"/></a>
   <a href="mailto:bagjinhyeong640@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
@@ -33,9 +33,9 @@
 
 
 
-<h2 align=center>🌱 I’m currently learning ...</h2>
+<h2 align=center>🌱 I’m currently learning ...🌱</h2>
 <p align=center>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python"/>
+  <a target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
 </p>
 
 
