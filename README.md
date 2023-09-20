@@ -36,6 +36,8 @@
 <h2 align=center>🌱 I’m currently learning ...🌱</h2>
 <p align=center>
   <a target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
+  <a target="_blank"><img src="https://img.shields.io/badge/Godot_Engine-478CBF?style=flat-square&logo=Godot%20Engine&logoColor=white"/></a>
+
 </p>
 
 
