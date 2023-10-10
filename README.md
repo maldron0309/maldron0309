@@ -20,9 +20,7 @@
   <a href="https://www.instagram.com/pjhbb_0309/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
   <a href="https://velog.io/@maldron" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
   <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=twitter,instagram" />
-  </a>
+
 </p>
 </p>
 
@@ -30,18 +28,19 @@
 <h2 align=center>💻 Tech Stack 💻</h2>
 
 <p align=center> 
-    &emsp;
-  <a target="_blank"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=C&logoColor=white"/></a>
- <a target="_blank"><img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=C&logoColor=white"/></a>
- <a target="_blank"><img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/></a>
+   <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,unity" />
+  </a>
 </p>
 
 
 
 <h2 align=center>🌱 I’m currently learning ...🌱</h2>
-<p align=center>
-  <a target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
-  <a target="_blank"><img src="https://img.shields.io/badge/Godot_Engine-478CBF?style=flat-square&logo=Godot%20Engine&logoColor=white"/></a>
+<p align=center> 
+   <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,godot" />
+  </a>
+</p>
 
 </p>
 
