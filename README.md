@@ -51,9 +51,9 @@
 
 <div align=center >
   
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maldron0309) 
+
 ![](./profile-3d-contrib/profile-green-animate.svg)
-![Top Languages](https://github-readme-stats.vercel.app/api?username=maldron0309&show_icons=true)   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maldron0309&amp;layout=compact&amp;theme=github" alt="Top Languages" />
+![Top Languages](https://github-readme-stats.vercel.app/api?username=maldron0309&show_icons=true)
 
 </div>
 
