@@ -33,7 +33,7 @@ To become a developer, I am learning new languages and technologies, enjoying so
 
 ## Project List
 
-## Honors & Awards
+## Honors and Awards
 > 2023 교내 국방 공간정보 해커톤 (2023.07.31 ~ 2023.08.04) - 최우수상
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
