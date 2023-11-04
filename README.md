@@ -17,10 +17,7 @@
 
 <h2 align="center">🧡 Connect with me 🧡</h2>
 <p align=center>
-  <a href="https://twitter.com/MAREDA640" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"/></a>
   <a href="mailto:bagjinhyeong640@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-  <a href="https://www.instagram.com/pjhbb_0309/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-  <a href="https://velog.io/@maldron" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
   <p align="center">
 
 </p>
@@ -75,11 +72,10 @@
 
 </div>
 
+<h2 align="center">🏆 GitHub Trophies 🏆</h2>
 
-<h2 align=center>🏆 GitHub Trophies 🏆</h2>
-
-<p align=center>
-  [![trophy](https://github-profile-trophy.vercel.app/?username=maldron0309)](https://github.com/maldron0309/github-profile-trophy)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma" />
 </p>
 
 
