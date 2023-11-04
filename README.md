@@ -79,14 +79,7 @@
 <h2 align=center>🏆 GitHub Trophies 🏆</h2>
 
 <p align=center>
-  <img src="https://github-profile-trophy.vercel.app/?username=maldron0309&theme=juicyfresh&no-bg=true" />
+  [![trophy](https://github-profile-trophy.vercel.app/?username=maldron0309)](https://github.com/maldron0309/github-profile-trophy)
 </p>
 
-
-<hr />
-
-<!-- Snake -->
-<div align="center">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" />
-</div>
 
