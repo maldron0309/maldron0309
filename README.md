@@ -1,32 +1,19 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ed9d0b,100:f94001&height=250&section=header&text=maldron0309&fontColor=ffffff&fontSize=90" alt="header" />
-</div>
 
-<h1 align="center">👋 Welcome to my Github! 👋</h1>
+<h1>👋 Welcome to my Github! 👋</h1>
 
-<div align="center">
+<div>
  <a href="https://hits.seeyoufarm.com">
    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmaldron0309"/>
    
  </a>
 
- 
  <img alt="GitHub followers" src="https://img.shields.io/github/followers/maldron0309?style=social">
 
 </div>
 
-<h2 align="center">🧡 Connect with me 🧡</h2>
-<p align=center>
-  <a href="mailto:bagjinhyeong640@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-  <p align="center">
+<h2>Skills</h2>
 
-</p>
-</p>
-
-
-<h2 align=center>💻 Tech Stack 💻</h2>
-
-<p align=center> 
+<p> 
    <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp,cs,unity" />
   </a>
@@ -34,12 +21,12 @@
 
 
 
-<h2 align=center>🌱 I’m currently learning ...🌱</h2>
-<p align=center> 
+<h2>I’m currently learning ...</h2>
+
    <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,godot" />
   </a>
-</p>
+
 
 </p>
 
