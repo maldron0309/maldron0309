@@ -1,7 +1,7 @@
 
 #  Welcome to my Github! 
 
-[Introduce](#introduce)  · [Contact Me](#contact-me)  · [Skills](#skills) · [Project List](#project-list)
+[Introduce](#introduce)  · [Contact Me](#contact-me)  · [Skills](#skills) · [Project List](#project-list) · [Honors & Awards](#honors-&-awards)
 <div>
  <a href="https://hits.seeyoufarm.com">
    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmaldron0309"/>
@@ -32,6 +32,8 @@ To become a developer, I am learning new languages and technologies, enjoying so
 </p>
 
 ## Project List
+
+## Honors & Awards
 
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
