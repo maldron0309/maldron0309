@@ -1,5 +1,5 @@
 
-# 👋 Welcome to my Github! 👋
+#  Welcome to my Github! 
 
 [Introduce](#introduce)  · [Contact Me](#contact-me)  · [Skills](#skills) · [Project List](#project-list)
 <div>
