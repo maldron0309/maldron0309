@@ -17,45 +17,26 @@ To become a developer, I am learning new languages and technologies, enjoying so
 - Email : [parkdev640@gmail.com](mailto:parkdev640@gmail.com)
 ## [Skills](#skills)
 
-### Game
-#### Language
+### Language
 <p> 
    <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,cs" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,cs" />
   </a>
 </p>
 
-#### Engine
+### Engine
 <p> 
    <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=unity,godot" />
   </a>
 </p>
 
-### Frontend
-#### Language
-<p> 
-   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js" />
-  </a>
-</p>
-
-#### Framework
+### Framework
 <p> 
    <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=svelte" />
   </a>
 </p>
-
-#### Other
-<p> 
-   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c" />
-  </a>
-</p>
-
-
-
 
 ## Project List
 
