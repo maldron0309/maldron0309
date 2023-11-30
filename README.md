@@ -38,6 +38,13 @@ To become a developer, I am learning new languages and technologies, enjoying so
   </a>
 </p>
 
+### Tools
+<p> 
+   <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma,vscode,visualstudio" />
+  </a>
+</p>
+
 ## Project List
 
 ## Honors and Awards
