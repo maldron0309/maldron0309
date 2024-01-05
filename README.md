@@ -20,7 +20,7 @@ To become a developer, I am learning new languages and technologies, enjoying so
 ### Language
 <p> 
    <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,cs" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs" />
   </a>
 </p>
 
