@@ -50,7 +50,6 @@ To become a developer, I am learning new languages and technologies, enjoying so
 ## Honors and Awards
 > 2023 교내 국방 공간정보 해커톤 (2023.07.31 ~ 2023.08.04) - 최우수상
 
-![](./profile-3d-contrib/profile-green-animate.svg)
 ![Top Languages](https://github-readme-stats.vercel.app/api?username=maldron0309&show_icons=true)<img src="https://github-readme-streak-stats.herokuapp.com/?user=maldron0309&theme=dark" />
 
 
