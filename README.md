@@ -55,11 +55,8 @@ To become a developer, I am learning new languages and technologies, enjoying so
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=maldron)](https://solved.ac/maldron) ![mazandi profile](http://mazandi.herokuapp.com/api?handle=maldron&theme=warm)
 
-
 <a href="https://opgc.me/#/users/maldron0309" target="_blank"><img src="https://api.opgc.me/githubs/users/maldron0309/tag/?theme=basic" /></a>
 
-
-   
 <img src="http:/mazandi.herokuapp.com/api?handle=maldron&theme=warm">
 
   <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma" />
