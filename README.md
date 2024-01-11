@@ -44,6 +44,21 @@ To become a developer, I am learning new languages and technologies, enjoying so
   </a>
 </p>
 
+
+### Collaboration
+<p> 
+   <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git />
+  </a>
+</p>
+
+### Will Study
+<p> 
+   <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python />
+  </a>
+</p>
+
 ## Project List
 
 ## Honors and Awards
