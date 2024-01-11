@@ -37,10 +37,24 @@ To become a developer, I am learning new languages and technologies, enjoying so
   </a>
 </p>
 
+### Collaboration
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github" />
+  </a>
+</p>
+
 ### Tools
 <p> 
    <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=figma,vscode,visualstudio" />
+  </a>
+</p>
+
+### Will Study
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python" />
   </a>
 </p>
 
