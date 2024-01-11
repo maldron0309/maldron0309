@@ -60,10 +60,13 @@ To become a developer, I am learning new languages and technologies, enjoying so
 
 ## Project List
 
-## Honors and Awards
-> 2023 교내 국방 공간정보 해커톤 (2023.07.31 ~ 2023.08.04) - 최우수상(2위)
+### MagneTimer
+[`TheGreatesMarmot`](https://github.com/TheGreatestMarmot/MagneTimer)
 
-> 2023 공간정보 웹/앱 활용 경진대회(2023.12.29.) - 대상(1위)
+## Honors and Awards
+> **2023 교내 국방 공간정보 해커톤**(2023.08.04) - 최우수상(2위)
+
+> **2023 공간정보 웹/앱 활용 경진대회**(2023.12.29) - 대상(1위)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api?username=maldron0309&show_icons=true)<img src="https://github-readme-streak-stats.herokuapp.com/?user=maldron0309&theme=dark" />
 
