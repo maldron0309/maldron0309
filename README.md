@@ -60,8 +60,11 @@ To become a developer, I am learning new languages and technologies, enjoying so
 
 ## Project List
 
-### MagneTimer
-[`TheGreatesMarmot`](https://github.com/TheGreatestMarmot/MagneTimer)
+### MagneTimer (2023.10.26 ~ 2023.12.27)
+- **NFC 태그형 스터디 어플리케이션**
+[`TheGreatestMarmot/MagneTimer`](https://github.com/TheGreatestMarmot/MagneTimer)
+
+<hr>
 
 ## Honors and Awards
 > **2023 교내 국방 공간정보 해커톤**(2023.08.04) - 최우수상(2위)
