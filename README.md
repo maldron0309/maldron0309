@@ -66,6 +66,16 @@ To become a developer, I am learning new languages and technologies, enjoying so
 
 <hr>
 
+### 전략대백과 (2023.07.31 ~ 2023.08.04)
+- **전략 시뮬레이션 웹사이트**
+[`maldron0309/Strategy Encyclopedia`](https://github.com/maldron0309/StrategyEncyclopedia)
+
+<hr>
+
+### 진하봇 (2023.07.31 ~ 2023.08.04)
+- **NFC 태그형 스터디 어플리케이션**
+[`maldron0309/Strategy Encyclopedia`](https://github.com/maldron0309/StrategyEncyclopedia)
+
 ## Honors and Awards
 > **2023 교내 국방 공간정보 해커톤**(2023.08.04) - 최우수상(2위)
 
