@@ -74,7 +74,7 @@ To become a developer, I am learning new languages and technologies, enjoying so
 
 ### 진하봇 (2023.07.31 ~ 2023.08.04)
 - **서울디지텍고등학교 학생들을 위한 급식, 시간표, 학사일정을 알려주는 카카오톡 챗봇**
-[`maldron0309/Strategy Encyclopedia`](https://github.com/maldron0309/StrategyEncyclopedia)
+[`maldron0309/Strategy Encyclopedia`](http://github.com/maldron0309/JinhaBot/settings)
 
 <hr>
 
