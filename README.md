@@ -68,7 +68,7 @@ To become a developer, I am learning new languages and technologies, enjoying so
 
 ### 전략대백과 (2023.07.31 ~ 2023.08.04)
 - **전략 시뮬레이션 웹사이트**
-[`maldron0309/Strategy Encyclopedia`](https://github.com/maldron0309/StrategyEncyclopedia)
+[`maldron0309/StrategyEncyclopedia`](https://github.com/maldron0309/StrategyEncyclopedia)
 
 <hr>
 
