@@ -17,14 +17,14 @@ To become a developer, I am learning new languages and technologies, enjoying so
 ### Language
 <p> 
    <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs" />
+    <img src="https://skillicons.dev/icons?i=cs" />
   </a>
 </p>
 
 ### Engine
 <p> 
    <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=unity,godot" />
+    <img src="https://skillicons.dev/icons?i=unity" />
   </a>
 </p>
 
@@ -52,7 +52,7 @@ To become a developer, I am learning new languages and technologies, enjoying so
 ### Will Study
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python" />
+    <img src="https://skillicons.dev/icons?i=python,godot" />
   </a>
 </p>
 
