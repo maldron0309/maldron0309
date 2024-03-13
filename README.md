@@ -1,7 +1,2 @@
 
-   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmaldron0309"/><img alt="GitHub followers" src="https://img.shields.io/github/followers/maldron0309?style=social">
-
-- Email : [parkdev640@gmail.com](mailto:parkdev640@gmail.com)
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=maldron0309&theme=dark" />
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=maldron0309&theme=dark" /> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maldron0309&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
