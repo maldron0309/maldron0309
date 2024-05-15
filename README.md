@@ -1,13 +1,17 @@
-#  Welcome to my Github! 
+#  Hello, world!
 
-<div>
-   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmaldron0309"/>
-
+To become a developer, I am learning new languages and technologies, enjoying solving problems. I am working hard to fill in the gaps in my knowledge and striving to grow as a better software developer. My passion lies in overcoming challenges, and I am dedicated to evolving into a more proficient software developer.
+ 
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:parkdev640@gmail.com)](mailto:parkdev640@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1877f2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/utilforever/)](https://twitter.com/utilforever/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chan-ho-ohk-3a902a80/)](https://www.linkedin.com/in/chan-ho-ohk-3a902a80/)
  <img alt="GitHub followers" src="https://img.shields.io/github/followers/maldron0309?style=social">
-</div>
+ 
+[![trophy](https://github-profile-trophy.vercel.app/?username=maldron0309&theme=chalk&row=2&column=5)](https://github.com/ryo-ma/github-profile-trophy)
+[![streak](https://github-readme-streak-stats.herokuapp.com/?user=maldron0309&theme=calm)](https://github.com/maldron0309)
 
-## [Contact Me]
-- Email : [parkdev640@gmail.com](mailto:parkdev640@gmail.com)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=maldron)](https://solved.ac/maldron) ![mazandi profile](http://mazandi.herokuapp.com/api?handle=maldron&theme=warm)
+
 ## [Tech Stacks]
 
 | Category                    | Skills                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
@@ -15,6 +19,8 @@
 | **Langauge**            | <img src="https://skillicons.dev/icons?i=c,cpp,cs" />                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 | **FrontEnd**            | <img src="https://skillicons.dev/icons?i=html,css,js,svelte" />         |
 | **Collaboration**             | <img src="https://skillicons.dev/icons?i=git" /> <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=Trello&logoColor=white">                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-| **Game Engine**      | <img src="https://skillicons.dev/icons?i=unity,godot" />                                                                                                                                                                                                                                                                                                                                                                                          
+| **Game Engine**      | <img src="https://skillicons.dev/icons?i=unity,godot" />
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=maldron)](https://solved.ac/maldron) ![mazandi profile](http://mazandi.herokuapp.com/api?handle=maldron&theme=warm)
+### 🌱 I’m currently learning
+-  C/C++, C#, Python, JavaScript, TypeScript
+
