@@ -19,5 +19,5 @@ To become a developer, I am learning new languages and technologies, enjoying so
 
 
 ### 🌱 I’m currently learning
--  C/C++, C#, Python, JavaScript, TypeScript
+-  C/C++, C#, Python, JavaScript, TypeScript, Monogame, OpenGL
 
