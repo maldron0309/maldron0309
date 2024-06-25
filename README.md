@@ -19,5 +19,10 @@ To become a developer, I am learning new languages and technologies, enjoying so
 
 
 ### 🌱 I’m currently learning
--  C/C++, C#, Python, JavaScript, TypeScript, Monogame, OpenGL
+- Languages: C/C++, C#, Python, Rust
+- Topics: Game Math, raylib, SDL, OpenGL
+
+
+### 🌍 Open Source Projects
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)
 
