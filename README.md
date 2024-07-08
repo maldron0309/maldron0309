@@ -1,4 +1,4 @@
-[[#  Hello, World!
+# Hello, World!
 
 To become a developer, I am learning new languages and technologies, enjoying solving problems. I am working hard to fill in the gaps in my knowledge and striving to grow as a better software developer. My passion lies in overcoming challenges, and I am dedicated to evolving into a more proficient software developer.
 
@@ -56,5 +56,3 @@ To become a developer, I am learning new languages and technologies, enjoying so
 
 ### 🌍 Open Source Projects
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)
-
-](url)](url)
