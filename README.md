@@ -8,12 +8,6 @@ To become a developer, I am learning new languages and technologies, enjoying so
 [![GitHub User's stars](https://img.shields.io/github/stars/maldron0309?color=fafa2f&logo=github)](#)
 [![GitHub followers](https://img.shields.io/github/followers/maldron0309?logo=github)](#)
 
-
-
-![maldron](https://solvedac-cards-starcea.paring.moe/profile/maldron)
-
-
-
 <h2>[Tech Stacks]</h2>
 <table>
   <tr>
@@ -53,12 +47,25 @@ To become a developer, I am learning new languages and technologies, enjoying so
   </tr>
 </table>
 
-
+![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=maldron)
 
 ### 🌱 I’m currently learning
 - Languages: C/C++, C#, Python, Rust
 - Topics: Game Math, raylib, SDL, OpenGL
 
 
-### 🌍 Open Source Projects
+### 🌍 Open Source Contributions
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)
+
+
+### 📊 Metrics
+<details>
+<summary>Click to see</summary>
+
+<div align="center">
+  
+![Metrics](./github-metrics.svg)
+
+</div>
+
+</details>
