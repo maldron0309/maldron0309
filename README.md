@@ -51,7 +51,7 @@ To become a developer, I am learning new languages and technologies, enjoying so
 
 ### 🌱 I’m currently learning
 - Languages: C/C++, C#, Python, Rust
-- Topics: Game Math, raylib, SDL, OpenGL
+- Topics: Game Math, raylib, SDL, OpenGL, game physics
 
 
 ### 🌍 Open Source Contributions
