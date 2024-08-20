@@ -57,6 +57,7 @@ To become a developer, I am learning new languages and technologies, enjoying so
 
 ### 🌍 Open Source Contributions
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)
+- [0xAX/asm](https://github.com/0xAX/asm)
 
 
 ### 📊 Metrics
