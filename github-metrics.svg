@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1912" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1919" class="">
     <defs>
         <style/>
     </defs>
@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1222 Commits
+                            1230 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="233.3865089705246" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="233.3865089705246" y="0" width="191.42296703217542" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="424.8094760027" y="0" width="11.809492580306134" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="436.61896858300616" y="0" width="10.342723346572564" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="446.96169192957876" y="0" width="9.64095942852218" height="8" fill="#222c37"/>
-                    <rect mask="url(#languages-bar)" x="456.60265135810096" y="0" width="1.7145844831696937" height="8" fill="#aace60"/>
-                    <rect mask="url(#languages-bar)" x="458.31723584127064" y="0" width="0.8717251741885458" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="459.18896101545926" y="0" width="0.8110389845409048" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="233.3863874316467" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="233.3863874316467" y="0" width="191.42310689694887" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="424.8094943285956" y="0" width="11.80948643036849" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="436.6189807589641" y="0" width="10.342717960472932" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="446.96169871943704" y="0" width="9.64095440787469" height="8" fill="#222c37"/>
+                    <rect mask="url(#languages-bar)" x="456.6026531273117" y="0" width="1.714583590278862" height="8" fill="#aace60"/>
+                    <rect mask="url(#languages-bar)" x="458.31723671759056" y="0" width="0.8717247202270038" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="459.18896143781757" y="0" width="0.8110385621824381" height="8" fill="#41b883"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -290,9 +290,9 @@
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 37.4 characters per line of code written</li>
+                        <li>Has approximately 37.8 characters per line of code written</li>
                         <li>Mostly pushes code around 00:00</li>
-                        <li>Mostly active on Tuesday</li>
+                        <li>Mostly active on Wednesday</li>
                     </ul>
                 </div>
             </section>
@@ -1380,8 +1380,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#8129782</div>
-                                        <div class="message">Update update-readme.yml</div>
+                                        <div class="sha">#7d072c7</div>
+                                        <div class="message">[Bronze V] Title: 나머지, Time: 0 ms, Memory: 2020 KB -BaekjoonHub</div>
                                     </div>
                                 </div>
                             </section>
@@ -1400,8 +1400,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#cf86d61</div>
-                                        <div class="message">[Bronze V] Title: ??!, Time: 0 ms, Memory: 13204 KB -BaekjoonHub</div>
+                                        <div class="sha">#c7e2e3d</div>
+                                        <div class="message">[Bronze V] Title: 1998년생인 내가 태국에서는 2541년생?!, Time: 0 ms, Memory: 2020 KB -BaekjoonHub</div>
                                     </div>
                                 </div>
                             </section>
@@ -1420,8 +1420,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#da2509e</div>
-                                        <div class="message">[Bronze V] Title: 사칙연산, Time: 0 ms, Memory: 13208 KB -BaekjoonHub</div>
+                                        <div class="sha">#acba2e6</div>
+                                        <div class="message">[Bronze V] Title: A×B, Time: 0 ms, Memory: 2020 KB -BaekjoonHub</div>
                                     </div>
                                 </div>
                             </section>
@@ -1440,8 +1440,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#3f265c1</div>
-                                        <div class="message">[Bronze V] Title: A/B, Time: 0 ms, Memory: 13248 KB -BaekjoonHub</div>
+                                        <div class="sha">#ffd388c</div>
+                                        <div class="message">[Bronze V] Title: ??!, Time: 0 ms, Memory: 2024 KB -BaekjoonHub</div>
                                     </div>
                                 </div>
                             </section>
@@ -1460,8 +1460,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#d4e2910</div>
-                                        <div class="message">[Bronze V] Title: A×B, Time: 0 ms, Memory: 13208 KB -BaekjoonHub</div>
+                                        <div class="sha">#b59209d</div>
+                                        <div class="message">[Bronze V] Title: 사칙연산, Time: 0 ms, Memory: 2020 KB -BaekjoonHub</div>
                                     </div>
                                 </div>
                             </section>
@@ -1882,7 +1882,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 3.26m out of 213m repositories</span>
+                                    <span class="gh">ranked 3.26m out of 209m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 5 stars</div>
                             </div>
@@ -1928,7 +1928,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.36m out of 213m repositories</span>
+                                    <span class="gh">ranked 5.36m out of 209m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -1980,7 +1980,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Aug 2024, 06:11:48  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 28 Aug 2024, 07:08:17  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
