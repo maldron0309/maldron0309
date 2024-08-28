@@ -66,7 +66,7 @@ To become a developer, I am learning new languages and technologies, enjoying so
 [![codetree-maldron](https://banner.codetree.ai/v1/banner/maldron)](https://www.codetree.ai/profiles/maldron)
 
 ### Baek Joon
-![Solved.ac Maldron](http://mazassumnida.wtf/api/v2/generate_badge?boj=maldron) ![Maldron profile](http://mazandi.herokuapp.com/api?handle=maldron&theme=warm)
+![Solved.ac Maldron](http://mazassumnida.wtf/api/v2/generate_badge?boj=maldron)   ![Maldron profile](http://mazandi.herokuapp.com/api?handle=maldron&theme=warm)
 ![Maldron](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=maldron)
 
 ### CodeForces
