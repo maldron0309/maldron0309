@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="233.66402522555032" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="233.66402522555032" y="0" width="191.19793718173077" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="424.8619624072811" y="0" width="11.791878810033333" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="436.6538412173144" y="0" width="10.327297251693139" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="446.98113846900753" y="0" width="9.626580009302545" height="8" fill="#222c37"/>
-                    <rect mask="url(#languages-bar)" x="456.6077184783101" y="0" width="1.7120271931765385" height="8" fill="#aace60"/>
-                    <rect mask="url(#languages-bar)" x="458.3197456714866" y="0" width="0.8704250025804295" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="459.190170674067" y="0" width="0.8098293259328957" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="233.6884827969162" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="233.6884827969162" y="0" width="191.17727658105392" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="424.8657593779701" y="0" width="11.790604594929786" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="436.6563639728999" y="0" width="10.326181297369919" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="446.9825452702698" y="0" width="9.625539773574129" height="8" fill="#222c37"/>
+                    <rect mask="url(#languages-bar)" x="456.6080850438439" y="0" width="1.7118421937424046" height="8" fill="#aace60"/>
+                    <rect mask="url(#languages-bar)" x="458.31992723758634" y="0" width="0.8703309455855551" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="459.19025818317186" y="0" width="0.8097418168281106" height="8" fill="#41b883"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -290,7 +290,7 @@
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 33.8 characters per line of code written</li>
+                        <li>Has approximately 34.0 characters per line of code written</li>
                         <li>Mostly pushes code around 00:00</li>
                         <li>Mostly active on Wednesday</li>
                     </ul>
@@ -1889,7 +1889,7 @@ simple enemy random spawner</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 3.27m out of 218m repositories</span>
+                                    <span class="gh">ranked 3.27m out of 215m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 5 stars</div>
                             </div>
@@ -1935,7 +1935,7 @@ simple enemy random spawner</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.36m out of 218m repositories</span>
+                                    <span class="gh">ranked 5.36m out of 215m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -1987,7 +1987,7 @@ simple enemy random spawner</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 30 Aug 2024, 19:07:02  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 30 Aug 2024, 20:10:02  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
