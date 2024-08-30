@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="233.5606645331733" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="233.5606645331733" y="0" width="191.2852514108888" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="424.84591594406214" y="0" width="11.797263799138337" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="436.64317974320045" y="0" width="10.33201341135526" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="446.9751931545557" y="0" width="9.630976172908333" height="8" fill="#222c37"/>
-                    <rect mask="url(#languages-bar)" x="456.60616932746404" y="0" width="1.7128090234455946" height="8" fill="#aace60"/>
-                    <rect mask="url(#languages-bar)" x="458.3189783509097" y="0" width="0.8708224989617211" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="459.1898008498714" y="0" width="0.8101991501286252" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="233.6659671184611" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="233.6659671184611" y="0" width="191.19629676235363" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="424.8622638808148" y="0" width="11.791777639347195" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="436.65404152016197" y="0" width="10.327208646665412" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="446.9812501668274" y="0" width="9.626497416212809" height="8" fill="#222c37"/>
+                    <rect mask="url(#languages-bar)" x="456.60774758304024" y="0" width="1.7120125045108379" height="8" fill="#aace60"/>
+                    <rect mask="url(#languages-bar)" x="458.31976008755106" y="0" width="0.8704175346021571" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="459.1901776221532" y="0" width="0.8098223778468544" height="8" fill="#41b883"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1346,6 +1346,26 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">maldron0309/codetree-TILs</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#7e98b84</div>
+                                        <div class="message">Add a record in CodeTree</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 5 commits in
                                         <span class="repo">maldron0309/MiniJam-166</span>
                                     </div>
@@ -1442,26 +1462,6 @@ simple enemy random spawner</div>
                                 <div class="details">
                                     <div> in <span class="repo">maldron0309/MiniJam-166</span></div>
                                     <div>6 files changed <span class="code">++262 --21</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">maldron0309/MiniJam-166</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">Maldron-branch</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#9fe2d22</div>
-                                        <div class="message">Merge branch 'Maldron-branch' of https://github.com/maldron0309/MiniJam-166 into Maldron-branch</div>
-                                    </div>
                                 </div>
                             </section>
                         </div>
@@ -1881,7 +1881,7 @@ simple enemy random spawner</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 3.27m out of 213m repositories</span>
+                                    <span class="gh">ranked 3.27m out of 212m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 5 stars</div>
                             </div>
@@ -1927,7 +1927,7 @@ simple enemy random spawner</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.36m out of 213m repositories</span>
+                                    <span class="gh">ranked 5.36m out of 212m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -1979,7 +1979,7 @@ simple enemy random spawner</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 30 Aug 2024, 15:08:45  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 30 Aug 2024, 16:09:41  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
