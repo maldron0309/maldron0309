@@ -23,7 +23,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                             </svg>
-                            Followed by 18 users
+                            Followed by 19 users
                         </div>
                     </section>
                     <section>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1281 Commits
+                            1285 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="239.1518154889431" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="239.1518154889431" y="0" width="178.7016785587868" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="417.8534940477299" y="0" width="16.81412895653632" height="8" fill="#222c37"/>
-                    <rect mask="url(#languages-bar)" x="434.66762300426626" y="0" width="11.021144996926058" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="445.68876800119233" y="0" width="9.652290552750713" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="455.341058553943" y="0" width="3.0885109078376214" height="8" fill="#aace60"/>
-                    <rect mask="url(#languages-bar)" x="458.42956946178066" y="0" width="0.813532798032677" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="459.2431022598134" y="0" width="0.7568977401866721" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="239.1455587393943" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="239.1455587393943" y="0" width="178.7090379557547" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="417.854596695149" y="0" width="16.81368906109355" height="8" fill="#222c37"/>
+                    <rect mask="url(#languages-bar)" x="434.66828575624254" y="0" width="11.020856658977017" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="445.6891424152195" y="0" width="9.65203802711365" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="455.3411804423332" y="0" width="3.0884301054435865" height="8" fill="#aace60"/>
+                    <rect mask="url(#languages-bar)" x="458.4296105477768" y="0" width="0.8135115141843537" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="459.2431220619612" y="0" width="0.7568779380388827" height="8" fill="#41b883"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -290,7 +290,7 @@
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 29.0 characters per line of code written</li>
+                        <li>Has approximately 28.7 characters per line of code written</li>
                         <li>Mostly pushes code around 06:00</li>
                         <li>Mostly active on Monday</li>
                     </ul>
@@ -1547,7 +1547,7 @@
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     developer
-                                    <span class="gh">ranked 678k out of 143m users</span>
+                                    <span class="gh">ranked 678k out of 141m users</span>
                                 </div>
                                 <div class="text">Published 52 public repositories</div>
                             </div>
@@ -1777,7 +1777,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="13.241206030150753 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="14.020100502512562 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -1814,9 +1814,9 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 843k out of 143m users</span>
+                                    <span class="gh">ranked 797k out of 141m users</span>
                                 </div>
-                                <div class="text">Followed by 18 users</div>
+                                <div class="text">Followed by 19 users</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -1884,7 +1884,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 3.27m out of 212m repositories</span>
+                                    <span class="gh">ranked 3.27m out of 213m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 5 stars</div>
                             </div>
@@ -1930,7 +1930,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.36m out of 212m repositories</span>
+                                    <span class="gh">ranked 5.36m out of 213m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -1982,7 +1982,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Sept 2024, 06:12:10  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 5 Sept 2024, 07:08:17  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
