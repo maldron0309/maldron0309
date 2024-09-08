@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1232 Commits
+                            1234 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="239.1004539711421" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="239.1004539711421" y="0" width="178.7620916847109" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="417.862545655853" y="0" width="16.810517864636623" height="8" fill="#222c37"/>
-                    <rect mask="url(#languages-bar)" x="434.6730635204896" y="0" width="11.018778037119418" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="445.69184155760905" y="0" width="9.650217575416075" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="455.34205913302515" y="0" width="3.0878476027832678" height="8" fill="#aace60"/>
-                    <rect mask="url(#languages-bar)" x="458.4299067358084" y="0" width="0.8133580793954696" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="459.2432648152039" y="0" width="0.7567351847961697" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="239.07946639873563" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="239.07946639873563" y="0" width="178.78677796558645" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="417.86624436432203" y="0" width="16.809042284164" height="8" fill="#222c37"/>
+                    <rect mask="url(#languages-bar)" x="434.67528664848606" y="0" width="11.017810839449801" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="445.69309748793586" y="0" width="9.649370506174934" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="455.3424679941108" y="0" width="3.0875765601145186" height="8" fill="#aace60"/>
+                    <rect mask="url(#languages-bar)" x="458.4300445542253" y="0" width="0.8132866850869261" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="459.2433312393122" y="0" width="0.7566687606877264" height="8" fill="#41b883"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1356,6 +1356,26 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">maldron0309/PSHub</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#378d95a</div>
+                                        <div class="message">[Silver IV] Title: 스택, Time: 216 ms, Memory: 2024 KB -BaekjoonHub</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 2 commits in
                                         <span class="repo">DungNC1/SNES-Project</span>
                                     </div>
@@ -1421,26 +1441,6 @@ item place (temp!)</div>
                                         <span class="code">coin</span>
                                         in
                                         <span class="repo">DungNC1/SNES-Project</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">maldron0309/PSHub</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#21dbce4</div>
-                                        <div class="message">[Bronze II] Title: 소수 찾기, Time: 0 ms, Memory: 2020 KB -BaekjoonHub</div>
                                     </div>
                                 </div>
                             </section>
@@ -1959,7 +1959,7 @@ item place (temp!)</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 Sept 2024, 14:07:52  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 8 Sept 2024, 15:08:23  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
