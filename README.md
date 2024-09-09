@@ -40,7 +40,9 @@ To become a developer, I am learning new languages and technologies, enjoying so
   </tr>
   <tr>
     <td><strong>Game Engine</strong></td>
-    <td><img src="https://skillicons.dev/icons?i=unity,godot,unreal" /></td>
+    <td><img src="https://skillicons.dev/icons?i=unity,godot,unreal" />
+      <img src="https://github.com/maldron0309/maldron0309/assets/SourceEngine.png" width="48" height="48" alt="source engine" />
+    </td>
   </tr>
   <tr>
     <td><strong>Game Framework</strong></td>
