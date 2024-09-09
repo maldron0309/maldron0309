@@ -44,7 +44,9 @@ To become a developer, I am learning new languages and technologies, enjoying so
   </tr>
   <tr>
     <td><strong>Game Framework</strong></td>
-    <td><img src="https://github.com/maldron0309/maldron0309/assets/103731019/ee9000ed-d3d0-4a07-b89b-be0d1a8514e8" alt="raylib_48x48" /></td>
+    <td><img src="https://github.com/maldron0309/maldron0309/assets/103731019/ee9000ed-d3d0-4a07-b89b-be0d1a8514e8" alt="raylib_48x48" />
+      <img src="https://skillicons.dev/icons?i=" />
+    </td>
   </tr>
 </table>
 
