@@ -47,14 +47,14 @@ To become a developer, I am learning new languages and technologies, enjoying so
   </tr>
   <tr>
     <td><strong>Game Framework</strong></td>
-    <td><img src="https://github.com/maldron0309/maldron0309/assets/103731019/ee9000ed-d3d0-4a07-b89b-be0d1a8514e8" alt="raylib_48x48" />
+    <td><img src="https://github.com/maldron0309/maldron0309/assets/103731019/ee9000ed-d3d0-4a07-b89b-be0d1a8514e8" alt="raylib" />
     </td>
   </tr>
 </table>
 
 ### 🌱 I’m currently learning
 - Languages: C/C++, C#, Python, Rust
-- Topics: Game Math, raylib, SDL, OpenGL, game physics
+- Topics: Game Math, Game Physics, raylib, SDL, OpenGL
 
 
 ### 🌍 Open Source Contributions
