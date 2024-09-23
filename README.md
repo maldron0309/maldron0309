@@ -19,6 +19,7 @@ To become a developer, I am learning new languages and technologies, enjoying so
     <td>
       <div style="display: flex; align-items: center;">
         <div>
+          <img src="https://cdn.hackr.io/uploads/topics_svg/1515163329FBBk5SGRAt.svg" alt="SVG icon" style="width: 50px; height: 47px; margin-right: 0px; margin-bottom: 0px;" />
           <img src="https://skillicons.dev/icons?i=c" />
           <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++ icon" style="width: 80px; height: 50px; margin-right: 0px; margin-bottom: 0px;" />
           <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" style="width: 80px; height: 50px; margin-right: 0px; margin-bottom: 0px;" />
@@ -53,7 +54,7 @@ To become a developer, I am learning new languages and technologies, enjoying so
 </table>
 
 ### 🌱 I’m currently learning
-- Languages: C/C++, C#, Python, Rust
+- Languages: C/C++, C#, Python, Rust, Assembly
 - Topics: Game Math, Game Physics, raylib, SDL, OpenGL
 
 
