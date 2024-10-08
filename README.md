@@ -3,9 +3,9 @@
 To become a developer, I am learning new languages and technologies, enjoying solving problems. I am working hard to fill in the gaps in my knowledge and striving to grow as a better software developer. My passion lies in overcoming challenges, and I am dedicated to evolving into a more proficient software developer.
 
 [![Gmail](https://github.com/maldron0309/maldron0309/blob/main/assets/email.png)](mailto:parkdev640@gmail.com)
-[![Gmail](https://github.com/maldron0309/maldron0309/blob/main/assets/twitter.png)](https://twitter.com/Maldron640)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%EC%A7%84%ED%98%95-%EB%B0%95-a6aa71296/)](https://www.linkedin.com/in/%EC%A7%84%ED%98%95-%EB%B0%95-a6aa71296/)
-[![SOF](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20819691/maldron)
+[![Twitter](https://github.com/maldron0309/maldron0309/blob/main/assets/twitter.png)](https://twitter.com/Maldron640)
+  <a href="https://www.linkedin.com/in/%EC%A7%84%ED%98%95-%EB%B0%95-a6aa71296/"> <img src="https://github.com/maldron0309/maldron0309/blob/main/assets/linkedin.png" alt="SVG icon" style="width: 100px; height: 30px;"/></a>
+  <a href="https://stackoverflow.com/users/20819691/maldron"> <img src="https://skillicons.dev/icons?i=stackoverflow" style="width: 30px; height: 30px; "/></a>
 [![GitHub User's stars](https://img.shields.io/github/stars/maldron0309?color=fafa2f&logo=github)](#)
 [![GitHub followers](https://img.shields.io/github/followers/maldron0309?logo=github)](#)
 
