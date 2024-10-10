@@ -41,9 +41,9 @@
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1293 Commits
+                            1288 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="425.57676552300273" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="425.57676552300273" y="0" width="17.007636679836356" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="442.5844022028391" y="0" width="12.894160950017467" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="455.4785631528566" y="0" width="1.323870046828953" height="8" fill="#222c37"/>
-                    <rect mask="url(#languages-bar)" x="456.8024331996856" y="0" width="1.3001556158386292" height="8" fill="#5686a5"/>
-                    <rect mask="url(#languages-bar)" x="458.1025888155242" y="0" width="0.9739910593579437" height="8" fill="#0298c3"/>
-                    <rect mask="url(#languages-bar)" x="459.0765798748821" y="0" width="0.6189522963629521" height="8" fill="#ed5051"/>
-                    <rect mask="url(#languages-bar)" x="459.6955321712451" y="0" width="0.30446782875496353" height="8" fill="#6E4C13"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="425.51170298034066" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="425.51170298034066" y="0" width="17.039717352464557" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="442.5514203328052" y="0" width="12.918580068189716" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="455.47000040099493" y="0" width="1.3263772079574303" height="8" fill="#222c37"/>
+                    <rect mask="url(#languages-bar)" x="456.79637760895235" y="0" width="1.3026178662904844" height="8" fill="#5686a5"/>
+                    <rect mask="url(#languages-bar)" x="458.0989954752428" y="0" width="0.9758356154224578" height="8" fill="#0298c3"/>
+                    <rect mask="url(#languages-bar)" x="459.07483109066527" y="0" width="0.6201244757181237" height="8" fill="#ed5051"/>
+                    <rect mask="url(#languages-bar)" x="459.6949555663834" y="0" width="0.3050444336165622" height="8" fill="#6E4C13"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -349,7 +349,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M10.896 2H8.75V.75a.75.75 0 00-1.5 0V2H5.104a.25.25 0 00-.177.427l2.896 2.896a.25.25 0 00.354 0l2.896-2.896A.25.25 0 0010.896 2zM8.75 15.25a.75.75 0 01-1.5 0V14H5.104a.25.25 0 01-.177-.427l2.896-2.896a.25.25 0 01.354 0l2.896 2.896a.25.25 0 01-.177.427H8.75v1.25zm-6.5-6.5a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM6 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 016 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM12 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 0112 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5z"/>
                             </svg>
-                            Average per day at ~4.63
+                            Average per day at ~4.59
                         </div>
                     </section>
                 </div>
@@ -1274,9 +1274,9 @@
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                             <g transform="translate(-5.1, 8.21311475409836)">
-                                <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.7868852459016393 0,1.7868852459016393 z"/>
-                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.7868852459016393 1.7,2.7868852459016393 z"/>
+                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.7868852459016393 0,1.7868852459016393 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.7868852459016393 1.7,2.7868852459016393 z"/>
                             </g>
                             <g transform="translate(-6.8, 9.704918032786885)">
                                 <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -1342,10 +1342,10 @@
                                 <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.9836065573770494 0,1.9836065573770492 z"/>
                                 <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.9836065573770492 1.7,2.9836065573770494 z"/>
                             </g>
-                            <g transform="translate(-3.4, 6.918032786885246)">
-                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.081967213114754 0,2.081967213114754 z"/>
-                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.081967213114754 1.7,3.081967213114754 z"/>
+                            <g transform="translate(-3.4, 7.606557377049181)">
+                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.3934426229508197 0,1.3934426229508197 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.3934426229508197 1.7,2.3934426229508197 z"/>
                             </g>
                             <g transform="translate(-5.1, 9)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -1867,7 +1867,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 3.31m out of 202m repositories</span>
+                                    <span class="gh">ranked 3.31m out of 224m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 5 stars</div>
                             </div>
@@ -1913,7 +1913,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.41m out of 202m repositories</span>
+                                    <span class="gh">ranked 5.41m out of 224m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -1965,7 +1965,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 Oct 2024, 02:11:29  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 10 Oct 2024, 03:15:07  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
