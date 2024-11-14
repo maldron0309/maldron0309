@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="425.5562332251336" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="425.5562332251336" y="0" width="17.804405591885697" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="443.36063881701926" y="0" width="10.992893148134268" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="454.35353196515354" y="0" width="1.7406728594586587" height="8" fill="#222c37"/>
-                    <rect mask="url(#languages-bar)" x="456.09420482461223" y="0" width="1.3028114504402284" height="8" fill="#5686a5"/>
-                    <rect mask="url(#languages-bar)" x="457.39701627505247" y="0" width="1.0067864555943271" height="8" fill="#6E4C13"/>
-                    <rect mask="url(#languages-bar)" x="458.4038027306468" y="0" width="0.9759806359329161" height="8" fill="#0298c3"/>
-                    <rect mask="url(#languages-bar)" x="459.3797833665797" y="0" width="0.6202166334202971" height="8" fill="#ed5051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="425.52560883855216" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="425.52560883855216" y="0" width="17.803124329958063" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="443.3287331685102" y="0" width="11.025205134528736" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="454.35393830303894" y="0" width="1.7405475950766618" height="8" fill="#222c37"/>
+                    <rect mask="url(#languages-bar)" x="456.09448589811564" y="0" width="1.302717695964589" height="8" fill="#5686a5"/>
+                    <rect mask="url(#languages-bar)" x="457.3972035940802" y="0" width="1.0067140040233857" height="8" fill="#6E4C13"/>
+                    <rect mask="url(#languages-bar)" x="458.4039175981036" y="0" width="0.97591040124721" height="8" fill="#0298c3"/>
+                    <rect mask="url(#languages-bar)" x="459.3798279993508" y="0" width="0.6201720006492009" height="8" fill="#ed5051"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -285,7 +285,7 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 16 commits)</small>
+                    <small class="h-details">(computed from last 15 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
@@ -1669,7 +1669,7 @@ New Korean translation</div>
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     developer
-                                    <span class="gh">ranked 725k out of 148m users</span>
+                                    <span class="gh">ranked 725k out of 149m users</span>
                                 </div>
                                 <div class="text">Published 51 public repositories</div>
                             </div>
@@ -1935,7 +1935,7 @@ New Korean translation</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 940k out of 148m users</span>
+                                    <span class="gh">ranked 940k out of 149m users</span>
                                 </div>
                                 <div class="text">Followed by 17 users</div>
                             </div>
@@ -1973,7 +1973,7 @@ New Korean translation</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 3.36m out of 225m repositories</span>
+                                    <span class="gh">ranked 3.36m out of 215m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 5 stars</div>
                             </div>
@@ -2025,7 +2025,7 @@ New Korean translation</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 Nov 2024, 13:18:44  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 14 Nov 2024, 14:08:52  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
