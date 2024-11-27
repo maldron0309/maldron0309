@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="425.3881365851054" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="425.3881365851054" y="0" width="17.79737277101732" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="443.18550935612274" y="0" width="11.170252989484906" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="454.3557623456077" y="0" width="1.7399852857933742" height="8" fill="#222c37"/>
-                    <rect mask="url(#languages-bar)" x="456.095747631401" y="0" width="1.3022968340151566" height="8" fill="#5686a5"/>
-                    <rect mask="url(#languages-bar)" x="457.39804446541615" y="0" width="1.0063887703833065" height="8" fill="#6E4C13"/>
-                    <rect mask="url(#languages-bar)" x="458.40443323579944" y="0" width="0.9755951191602217" height="8" fill="#0298c3"/>
-                    <rect mask="url(#languages-bar)" x="459.3800283549597" y="0" width="0.6199716450403187" height="8" fill="#ed5051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="425.3770753059076" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="425.3770753059076" y="0" width="17.796909989636557" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="443.1739852955442" y="0" width="11.181923816000712" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="454.3559091115449" y="0" width="1.7399400413180561" height="8" fill="#222c37"/>
+                    <rect mask="url(#languages-bar)" x="456.09584915286297" y="0" width="1.302262970661573" height="8" fill="#5686a5"/>
+                    <rect mask="url(#languages-bar)" x="457.3981121235246" y="0" width="1.006362601465527" height="8" fill="#6E4C13"/>
+                    <rect mask="url(#languages-bar)" x="458.4044747249901" y="0" width="0.975569750963347" height="8" fill="#0298c3"/>
+                    <rect mask="url(#languages-bar)" x="459.38004447595347" y="0" width="0.6199555240466408" height="8" fill="#ed5051"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1574,7 +1574,7 @@ add: passwordbox interact</div>
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     developer
-                                    <span class="gh">ranked 729k out of 150m users</span>
+                                    <span class="gh">ranked 729k out of 147m users</span>
                                 </div>
                                 <div class="text">Published 51 public repositories</div>
                             </div>
@@ -1840,7 +1840,7 @@ add: passwordbox interact</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 948k out of 150m users</span>
+                                    <span class="gh">ranked 948k out of 147m users</span>
                                 </div>
                                 <div class="text">Followed by 17 users</div>
                             </div>
@@ -1878,7 +1878,7 @@ add: passwordbox interact</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 3.38m out of 228m repositories</span>
+                                    <span class="gh">ranked 3.38m out of 194m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 5 stars</div>
                             </div>
@@ -1930,7 +1930,7 @@ add: passwordbox interact</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Nov 2024, 22:09:01  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 27 Nov 2024, 23:09:21  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
