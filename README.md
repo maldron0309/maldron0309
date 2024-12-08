@@ -25,7 +25,7 @@ To become a developer, I am learning new languages and technologies, enjoying so
           <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++ icon" style="width: 80px; height: 50px; margin-right: 0px; margin-bottom: 0px;" />
           <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" style="width: 80px; height: 50px; margin-right: 0px; margin-bottom: 0px;" />
           <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon"  style="width: 80px; height: 50px; margin-right: 0px; margin-bottom: 0px;" />
-          <img src="https://skillicons.dev/icons?i=rust,kotlin" />
+          <img src="https://skillicons.dev/icons?i=rust" />
         </div>
       </div>
     </td>
@@ -33,13 +33,6 @@ To become a developer, I am learning new languages and technologies, enjoying so
   <tr>
     <td><strong>FrontEnd</strong></td>
     <td><img src="https://skillicons.dev/icons?i=html,css,js,svelte" /></td>
-  </tr>
-  <tr>
-    <td><strong>Collaboration</strong></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=git" />
-      <img src="https://github.com/maldron0309/maldron0309/assets/103731019/8e749fcc-5a72-4c68-8ef0-793f149ceebb" width="48" height="48" />
-    </td>
   </tr>
   <tr>
     <td><strong>Game Engine</strong></td>
