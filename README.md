@@ -1,11 +1,9 @@
 # Hello, World!
 
-To become a developer, I am learning new languages and technologies, enjoying solving problems. I am working hard to fill in the gaps in my knowledge and striving to grow as a better software developer. My passion lies in overcoming challenges, and I am dedicated to evolving into a more proficient software developer.
+I'm an indie game developer and moderator 
+I've been playing different games since I was a kid and games have been my best friend in my life. I'm always trying to make games that people enjoy playing.
 
 [![Gmail](https://github.com/maldron0309/maldron0309/blob/main/assets/email.png)](mailto:parkdev640@gmail.com)
-[![Twitter](https://github.com/maldron0309/maldron0309/blob/main/assets/twitter.png)](https://twitter.com/Maldron640)
-  <a href="https://www.linkedin.com/in/%EC%A7%84%ED%98%95-%EB%B0%95-a6aa71296/"> <img src="https://github.com/maldron0309/maldron0309/blob/main/assets/linkedin.png" alt="SVG icon" style="width: 100px; height: 30px;"/></a>
-  <a href="https://stackoverflow.com/users/20819691/maldron"> <img src="https://skillicons.dev/icons?i=stackoverflow" style="width: 30px; height: 30px; "/></a>
 [![GitHub User's stars](https://img.shields.io/github/stars/maldron0309?color=fafa2f&logo=github)](#)
 [![GitHub followers](https://img.shields.io/github/followers/maldron0309?logo=github)](#)
 
@@ -52,47 +50,7 @@ To become a developer, I am learning new languages and technologies, enjoying so
 - Languages: C/C++, C#, Python, Rust, Assembly
 - Topics: Game Math, Game Physics, raylib,
 
-
 ### 🌍 Open Source Contributions
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) 
 - [0xAX/asm](https://github.com/0xAX/asm)   [Korea fork](https://github.com/maldron0309/asm/tree/korean)
 - [Portal-2-Multiplayer-Mod](https://github.com/Portal-2-Multiplayer-Mod/Portal-2-Multiplayer-Mod)
-
-### 📚 Problem Solving
-
-<details>
-<summary>Click to see</summary>
-
-### CodeTree
-[![codetree-maldron](https://banner.codetree.ai/v1/banner/maldron)](https://www.codetree.ai/profiles/maldron)
-
-### Baek Joon
-![Solved.ac Maldron](http://mazassumnida.wtf/api/v2/generate_badge?boj=maldron0309)   ![Maldron profile](http://mazandi.herokuapp.com/api?handle=maldron0309&theme=warm)
-![Maldron](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=maldron0309)
-
-### CodeForces
-![CodeForces Stats](https://raw.githubusercontent.com/maldron0309/cf-stats/main/output/light_card.svg)
-[![CodeForces Profile](https://cf.leed.at?id=Maldron)](https://codeforces.com/profile/{Maldron) 
-
-### LeetCode
-<img height="300px" src="https://leetcard.jacoblin.cool/maldron0309?theme=light&font=Karma&ext=heatmap" />
-
-</details>
-
-### 📊 Metrics
-<details>
-<summary>Click to see</summary>
-
-<div align="center">
-  
-![Metrics](./github-metrics.svg)
-
-</div>
-
-</details>
-
-<p align="center">
-      <img src="https://i.imgur.com/utuoLSO.gif" height="60" />
-      <img src="https://i.imgur.com/eumhMIi.gif" height="60" />
-      <img src="https://i.imgur.com/fIahkYP.gif" height="60" />
-</p>
