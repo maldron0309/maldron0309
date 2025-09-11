@@ -22,8 +22,6 @@ I've been playing different games since I was a kid and games have been my best 
           <img src="https://skillicons.dev/icons?i=c" />
           <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++ icon" style="width: 80px; height: 50px; margin-right: 0px; margin-bottom: 0px;" />
           <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" style="width: 80px; height: 50px; margin-right: 0px; margin-bottom: 0px;" />
-          <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon"  style="width: 80px; height: 50px; margin-right: 0px; margin-bottom: 0px;" />
-          <img src="https://skillicons.dev/icons?i=rust" />
         </div>
       </div>
     </td>
