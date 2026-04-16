@@ -5,7 +5,12 @@ I've been playing different games since I was a kid and games have been my best 
 
 [![Gmail](https://github.com/maldron0309/maldron0309/blob/main/assets/email.png)](mailto:parkdev640@gmail.com)
 
+
+
 https://solvedac-readme-stats.vercel.app/api?handle=mirahavel&v=1&streak=true
+
+
+
 
 <h2>[Tech Stacks]</h2>
 <table>
