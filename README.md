@@ -4,8 +4,8 @@ I'm an indie game developer
 I've been playing different games since I was a kid and games have been my best friend in my life. I'm always trying to make games that people enjoy playing.
 
 [![Gmail](https://github.com/maldron0309/maldron0309/blob/main/assets/email.png)](mailto:parkdev640@gmail.com)
-[![GitHub User's stars](https://img.shields.io/github/stars/maldron0309?color=fafa2f&logo=github)](#)
-[![GitHub followers](https://img.shields.io/github/followers/maldron0309?logo=github)](#)
+
+https://solvedac-readme-stats.vercel.app/api?handle=mirahavel&v=1&streak=true
 
 <h2>[Tech Stacks]</h2>
 <table>
