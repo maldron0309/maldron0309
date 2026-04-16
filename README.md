@@ -5,13 +5,6 @@ I've been playing different games since I was a kid and games have been my best 
 
 [![Gmail](https://github.com/maldron0309/maldron0309/blob/main/assets/email.png)](mailto:parkdev640@gmail.com)
 
-
-
-https://solvedac-readme-stats.vercel.app/api?handle=mirahavel&v=1&streak=true
-
-
-
-
 <h2>[Tech Stacks]</h2>
 <table>
   <tr>
@@ -56,4 +49,5 @@ https://solvedac-readme-stats.vercel.app/api?handle=mirahavel&v=1&streak=true
 ### 🌍 Open Source Contributions
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) 
 - [0xAX/asm](https://github.com/0xAX/asm)   [Korea fork](https://github.com/maldron0309/asm/tree/korean)
-- [Portal-2-Multiplayer-Mod](https://github.com/Portal-2-Multiplayer-Mod/Portal-2-Multiplayer-Mod)
+
+![Solvedac](https://solvedac-readme-stats.vercel.app/api?handle=mirahavel&v=1&streak=true)
