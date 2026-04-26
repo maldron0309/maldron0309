@@ -50,4 +50,9 @@ I've been playing different games since I was a kid and games have been my best 
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) 
 - [0xAX/asm](https://github.com/0xAX/asm)   [Korea fork](https://github.com/maldron0309/asm/tree/korean)
 
+
+
 ![Solvedac](https://solvedac-readme-stats.vercel.app/api?handle=mirahavel&v=1&streak=true)
+
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mirahavel)](https://solved.ac/mirahavel)​
